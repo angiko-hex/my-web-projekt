@@ -1,4 +1,4 @@
-const btn = document.getElementById("#heme-toggle");
+const btn = document.getElementById("theme-toggle");
 btn.addEventListener("click", ()=>{
     document.body.classList.toggle('dark-mode');
     console.log("mód átváltva");//segít a hibakeresésben
