@@ -1,0 +1,5 @@
+* { background-color: rgb(174, 213, 200);}
+/*ez érdekes*/
+nav { background-color: rgb(183, 100, 166);
+list-style: none;}
+li:hover {background-color: rgb(230, 143, 221) ;}
